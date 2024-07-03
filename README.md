@@ -21,3 +21,7 @@ Note: Only patients who are currently active at my hospital are included in this
 
 
 ** The data that I used for this is not real data.**
+
+
+Here is what the final dashboard looks like:
+![image](https://github.com/lwaziri2/Dashboard_tableau/assets/123435528/8512babf-0c1a-438d-beeb-c9b6e0939655)
